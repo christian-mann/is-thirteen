@@ -22,6 +22,7 @@ function is(x) {
         "13i",
 
         // Languages
+        "ثلاثة عشر", // Arabic
         "dertien", // Afrikaans / Dutch
         "tretze", // Catalan
         "十三", // Chinese (Traditional)
